@@ -1,0 +1,2 @@
+add_lunch_combo omni_Symphony_Z50-userdebug
+add_lunch_combo omni_Symphony_Z50-eng
